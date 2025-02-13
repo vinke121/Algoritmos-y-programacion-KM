@@ -1,4 +1,4 @@
-Algoritmo Ejercicio_9_Salario_de_un_trabajador
+Algoritmo ejercicio_9_Salario_de_un_trabajador
 	Escribir "valor de la hora del trabajador"
 	Leer valor_hora
 	Escribir "horas trabajadas"

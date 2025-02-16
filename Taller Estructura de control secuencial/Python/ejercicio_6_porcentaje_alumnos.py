@@ -1,0 +1,7 @@
+print("ejercicio_6_porcentaje_alumnos")
+hombres=int(input("ingrese el total de hombres: "))
+mujeres=int(input("ingrese el total de mujeres: "))
+porcentaje_hombres=int(hombres/(hombres+mujeres)*100)
+porcentaje_mujeres=int(mujeres/(hombres+mujeres)*100)
+print("el porcentaje de hombres es: ",porcentaje_hombres)
+print("el porcentaje de mujeres es: ",porcentaje_mujeres)
